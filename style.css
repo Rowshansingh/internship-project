@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    background: #e7095a ;
+}
+.hero{
+    width: 100%;
+    height: 90vh;
+    background: #F76709;
+    clip-path: polygon(53% 0, 100% 0, 100% 59%, 100% 87%, 59% 87%, 44% 99%, 34% 87%, 0 87%, 0 0);
+}
